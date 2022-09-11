@@ -1,0 +1,46 @@
+.after_menu{
+    height: 300px;
+}
+
+.fon_1{
+    background-color: #1a1a16;
+}
+
+.wrapper {
+    width: 300px;
+    height: 300px;
+    border: 0px solid #1a1a16;
+ }
+.exmpl {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.exmpl img {
+    height: 100%;
+    width: auto;
+}
+
+.bg_main_menu{
+    background-color: #FFFFF0;
+}
+
+.hr_mo{
+    background-color: #FFFFF0;
+}
+
+.hr_title{
+    background-color:black;
+    opacity: 0.4;
+    height: 1.5px;
+}
+
+p{
+    text-align: justify;
+}
+
+h4{
+    text-align: center;
+    font-weight: bold;
+}
